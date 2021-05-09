@@ -2,7 +2,7 @@
 
 ## Description
 
-    Following along with project #2 (Love-o-Meter) from the Arduino Projects Book.
+    Following along with project #3 (Love-o-Meter) from the Arduino Projects Book.
 
 
 
