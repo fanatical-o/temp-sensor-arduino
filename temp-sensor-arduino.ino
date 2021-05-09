@@ -24,13 +24,13 @@ void loop() {
         digitalWrite(2, LOW);
         digitalWrite(3, LOW);
         digitalWrite(4, LOW);
-    } else if (temperature >= baselineTemp+2 && 
+    } else if (temperature >= baselineTemp+2 &&
         temperature < baselineTemp+4){
         digitalWrite(2, HIGH);
         digitalWrite(3, LOW);
         digitalWrite(4, LOW);
 
-    } else if (temperature >= baselineTemp+4 && 
+    } else if (temperature >= baselineTemp+4 &&
         temperature < baselineTemp+6){
         digitalWrite(2, HIGH);
         digitalWrite(3, HIGH);
